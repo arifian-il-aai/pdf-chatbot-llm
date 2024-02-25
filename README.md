@@ -5,8 +5,9 @@ Mentee assignment from IBM Advance AI @ Infinite Learning
 Course completion of Build a Chatbot to Analyze PDF Documents Using LLM from CognitiveClass.ai
 ---
 
-Nama : Arifian Saputra
-Program : IBM Advance AI
+## Mentee Info
+### Name : Arifian Saputra
+### Program : IBM Advance AI
 
 ## Tech Stack: 
 - Python
