@@ -38,3 +38,8 @@ Install the library needed
 ```
 pip install Flask Flask_Cors langchain==0.0.299 openai==0.28 pdf2image chromadb==0.4.15 pypdf tiktoken
 ```
+
+Run the server
+```
+python server.py
+```
